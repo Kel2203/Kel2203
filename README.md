@@ -15,7 +15,7 @@ Obrigada pela visita!
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=FFF&bg_color=06111A&title_color=FFF&text_bold=false&border_radius=25&layout=compact&border_color=000000">
   
-<img height="180em src="https://github-readme-streak-stats.herokuapp.com?user=Kel2203&theme=dark&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000F27&stroke=EB22D9&ring=EB0ECC&fire=D31BEB&currStreakNum=FFFFFF&currStreakLabel=EBE3E5&sideLabels=EBDFE7">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kel2203&theme=dark&border_radius=20&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000F27&stroke=EB22D9&ring=EB0ECC&fire=D31BEB&currStreakNum=FFFFFF&currStreakLabel=EBE3E5&sideLabels=EBDFE7">
   
 </a>
 
