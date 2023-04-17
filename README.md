@@ -10,7 +10,7 @@ Obrigada pela visita!
 <h3>
 Contatos
 </h3>
-<a href="raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
+<a href="mailto:raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
