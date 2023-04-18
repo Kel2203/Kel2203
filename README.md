@@ -55,4 +55,8 @@ Skills
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
-![](./hello-world.svg)
+
+<div style="width: 100%;">
+  <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
