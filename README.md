@@ -2,7 +2,7 @@
 <div style="width: 100%;">
   <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-### Olá, seja bem-vindo(a)!!
+<h3> Olá, seja bem-vindo(a)!!</h3>
 
 <p style="font-family: 'Roboto', sans-serif;">
 <i>
