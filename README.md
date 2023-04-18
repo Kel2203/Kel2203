@@ -1,5 +1,5 @@
 
-![](./hello-world.svg)
+
 ### Olá, seja bem-vindo(a)!!
 
 <p style="font-family: 'Roboto', sans-serif;">
@@ -55,3 +55,4 @@ Skills
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
+![](./hello-world.svg)
