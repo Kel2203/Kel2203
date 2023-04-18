@@ -1,4 +1,5 @@
 
+![](./hello-word.svg)
 ### Olá, seja bem-vindo(a)!!
 
 <p style="font-family: 'Roboto', sans-serif;">
