@@ -18,7 +18,11 @@ body {
   overflow: hidden;
 }
 .snowflake {
-  color: #0FFF7F;
+  background-color: #d90479;
+  border:2px solid #d90479;
+  border-radius:25px;
+  width:8px;
+  height:8px;
   font-size: 1em;
   font-family: Arial;
   text-shadow: 0 0 1px #000;
@@ -28,7 +32,7 @@ body {
 /* Demo Purpose Only*/
 .demo {
   font-family: 'Raleway', sans-serif;
-  color:#fff;
+	color:#fff;
     display: block;
     margin: 0 auto;
     padding: 15px 0;
@@ -36,40 +40,103 @@ body {
 }
 .demo a{
   font-family: 'Raleway', sans-serif;
-color: #000;    
+color: #000;		
 }
       </style>
   
- <div class="snowflakes" aria-hidden="true">
+<div class="snowflakes" aria-hidden="true">
   <div class="snowflake">
-  ❅
+  
   </div>
   <div class="snowflake">
-  ❅
+  
   </div>
   <div class="snowflake">
-  ❆
+  
   </div>
   <div class="snowflake">
-  ❄
+  
   </div>
   <div class="snowflake">
-  ❅
+  
   </div>
   <div class="snowflake">
-  ❆
+  
   </div>
   <div class="snowflake">
-  ❄
+  
   </div>
   <div class="snowflake">
-  ❅
+  
+  </div>
+   <div class="snowflake">
+  
   </div>
   <div class="snowflake">
-  ❆
+  
   </div>
   <div class="snowflake">
-  ❄
+  
+  </div>
+  <div class="snowflake">
+  
+  </div> <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div> <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div> <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
+  </div>
+  <div class="snowflake">
+  
   </div>
 </div>
     </div>
