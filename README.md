@@ -17,12 +17,12 @@ Contatos
 <a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://github.com/Kel2203">
+<a href="https://github.com/Kel2203" style="display: 'flex';">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd8&ring_color=a29fd8&text_bold=true">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&theme=dark&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=F5F5F2&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
        
-<img height="25%" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
  
 </a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
