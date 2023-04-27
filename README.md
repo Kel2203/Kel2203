@@ -2,6 +2,7 @@
 <div style="width: 100%;">
   <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
 <h3> Olá, seja bem-vindo(a)!!</h3>
 
 <p style="font-family: 'Roboto', sans-serif;">
@@ -16,7 +17,9 @@ Contatos
 <a href="mailto:raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 
-<a href="https://github.com/404"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="100%" /></a>
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 
 <a href="https://github.com/Kel2203" style="display: 'flex';">
@@ -28,7 +31,9 @@ Contatos
  
 </a>
 
-<a href="https://github.com/404"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="100%" /></a>
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 <h3>
 Skills
 </h3>
@@ -50,9 +55,10 @@ Skills
 
 
 
-<a href="https://github.com/404"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="100%" /></a>
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
-----------------------------------
 <h3>
 Projetos recentes
 </h3>
@@ -61,12 +67,15 @@ Projetos recentes
 <img height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 </div>
 
-<a href="https://github.com/404"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="100%" /></a>
-
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=aa73dd&line=a29fd8&point=aa73dd&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/404"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" border="0" alt="animated-line-image-0379" width="100%" /></a>
+<div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
 
