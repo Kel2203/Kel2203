@@ -1,6 +1,8 @@
 <svg fill="none" viewBox="0 0 1000 200" width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
+
+      
       <style>
 
 * {
@@ -14,15 +16,21 @@ body {
   align-items: center;
   width: 100%;
   min-height: 100vh;
-  background: #000;
+  background: #00000000;
   overflow: hidden;
 }
 
-@keyframes progress1 {0% {transform: scalex(0);opacity: .5;}90% {transform: scalex(1);opacity: 1;}92% {transform: scalex(1);opacity: 1;}100% {transform: scalex(1);opacity: 0;}}
+.line {
+  position: absolute;
+  top: 4%;
+  width: 100%;
+  height: 1px;
+  background: rgba(140,0,255,0.98);
+-webkit-box-shadow:0px 0px 10px 5px rgba(140,0,255,0.98);
+-moz-box-shadow: 0px 0px 10px 5px rgba(140,0,255,0.98);
+box-shadow: 0px 0px 10px 5px rgba(140,0,255,0.98);
+}
 
-@keyframes progress2 {0% {transform: scale(.3,.8) translatez(0);opacity: 0;}90% {transform: scale(1,1) translatex(300px) translatez(0);opacity: 1;}100% {transform: scale(1,1) translatex(300px) translatez(0);opacity: 0;}}
-
-.line {position: absolute;top: 50%;width: 300px;left: 50%;margin-left: -150px;height: 3px;background: rgba(255,255,255,.1);&:before {animation: progress1 4s infinite;transform-origin: 0 0;content: "";display: block;width: 300px;height: 100%;background: linear-gradient(to right, rgba(255,255,255,0.1) 10%, rgba(255,255,255,0.4) 80%, rgba(255,255,255,1));}&:after {content: "";position: absolute;animation: progress2 4s infinite;transform-origin: 90% 50%;margin-left: -24px;top: -9px;width: 30px;height: 21px;border-radius: 2px;background: rgba(210,189,255,.55);filter: blur(8px);box-shadow: 0 0 10px 6px rgba(210,189,255,.4),-20px 0 15px 4px rgba(210,189,255,.3),-40px 0 15px 2px rgba(210,189,255,.2),-60px 0 10px 1px rgba(210,189,255,.1),-80px 0 10px 1px rgba(210,189,255,.05);}}
       </style>
       
 <div class="line">
