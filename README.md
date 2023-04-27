@@ -47,9 +47,10 @@ Skills
 </a>
 
 
-<h1>
+----------------------------------
+<h3>
 Projetos recentes
-</h1>
+</h3>
 <div style="display: 'flex';">
 <img height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=Java-POO&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 <img height="25%" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
