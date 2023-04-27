@@ -1,5 +1,9 @@
 
 <div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<div style="width: 100%;">
   <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <h3> Olá, seja bem-vindo(a)!!</h3>
