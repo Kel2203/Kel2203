@@ -19,10 +19,10 @@ Contatos
 
 <a href="https://github.com/Kel2203">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=D90479&bg_color=0d1117&border_radius=25&icon_color=FFF&title_color=FFF&border_color=06111A&ring_color=D90479&text_bold=true">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kel2203&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0d1117&border=0d1117&stroke=D90479&ring=D90479&fire=D90479&currStreakNum=D90479&sideNums=D90479&currStreakLabel=D9D9D9&sideLabels=D9D9D9&dates=D9D9D9">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=D90479&bg_color=0d1117&border_radius=25&icon_color=FFF&title_color=FFF&border_color=D90479&ring_color=D90479&text_bold=true">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kel2203&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0d1117&border=D90479&stroke=D90479&ring=D90479&fire=D90479&currStreakNum=D90479&sideNums=D90479&currStreakLabel=D9D9D9&sideLabels=D9D9D9&dates=D9D9D9&border_radius=30">
        
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=FFF&bg_color=0d1117&title_color=FFF&text_bold=false&border_radius=25&layout=compact&border_color=0d1117">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=FFF&bg_color=0d1117&title_color=FFF&text_bold=false&border_radius=25&layout=compact&border_color=D90479">
  
 </a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
