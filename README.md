@@ -52,7 +52,7 @@ Skills
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=aa73dd&line=aa73dd&point=aa73dd&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=aa73dd&line=a29fd8&point=aa73dd&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
