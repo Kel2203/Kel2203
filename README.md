@@ -71,7 +71,7 @@ Projetos recentes
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=aa73dd&line=a29fd8&point=aa73dd&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=6807ce&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
