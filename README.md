@@ -72,7 +72,7 @@ Projetos recentes
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![](https://visitcount.itsvg.in/api?id=Kel2201&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
