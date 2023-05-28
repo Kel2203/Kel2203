@@ -27,7 +27,7 @@ Contatos
 <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
        
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8&langs_count=8">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=8&layout=donut-vertical">
  
 </a>
 
@@ -71,7 +71,7 @@ Projetos recentes
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kel2203&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![](https://visitcount.itsvg.in/api?id=Kel2201&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
