@@ -24,8 +24,8 @@ Contatos
 <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203" style="display: 'flex';">
-<img height="280em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
-<img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
+<img height="250em" width="75%"src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
+<img height="250em" width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
        
 
 </a>
