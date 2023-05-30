@@ -67,8 +67,8 @@ Skills
 Projetos recentes
 </h3>
 <div style="display: 'flex';">
-<img height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SpringBoot&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
-<img height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SpringBoot&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 </div>
 
 <div style="width: 100%;">
