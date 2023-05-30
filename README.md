@@ -20,7 +20,9 @@ Contatos
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
+ <a href="https://github.com/Kel2203" >
+  <img  height="20%" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=8&layout=donut">
+ </a>
 <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203" style="display:'block';">
@@ -31,9 +33,7 @@ Contatos
   <img height="180em" width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
 
 </a>
-  <a href="https://github.com/Kel2203" style="left:'15%';">
-  <img  height="100%" width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=8&layout=donut-vertical">
- </a>
+ 
  </div>
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
