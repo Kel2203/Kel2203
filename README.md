@@ -22,10 +22,8 @@ Contatos
 </div>
 
 
-<a href="https://github.com/Kel2203" >
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=8&layout=donut">
- </a>
-<div class="container" style="display:'flex';">
+
+ <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
@@ -34,16 +32,12 @@ Contatos
  <a href="https://github.com/Kel2203">     
   <img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8">
      
-</a> 
-  
- 
- </div>
- 
- 
-<div style="width: 100%;">
+</a>   
+  </div>
+  <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<h3>
+  <h3>
 Skills
 </h3>
 
@@ -62,11 +56,25 @@ Skills
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
 </a>
 
+ 
+ <div style="width: 100%;">
+  <img src="line.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
-
+ <a href="https://github.com/Kel2203" >
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=4&layout=donut-vertical">
+ </a>
+   <a href="https://github.com/Kel2203" >
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=pie&hide=java,typescript,css,scss">
+ </a>
+ 
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
+
+
+
 
 <h3>
 Projetos recentes
