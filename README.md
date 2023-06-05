@@ -26,7 +26,8 @@ Contatos
  <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203">
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
+  
+<img height="180em" src="https://github-readme-stats-kel2203.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
   </a>
   
  <a href="https://github.com/Kel2203">     
@@ -62,10 +63,10 @@ Skills
 </div>
 
  <a href="https://github.com/Kel2203" >
-  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=4&layout=donut-vertical">
+  <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=4&layout=donut-vertical">
  </a>
    <a href="https://github.com/Kel2203" >
-  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=donut-vertical&hide=java,typescript,css,scss">
+  <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=donut-vertical&hide=java,typescript,css,scss">
  </a>
  
 <div style="width: 100%;">
@@ -80,8 +81,8 @@ Skills
 Projetos recentes
 </h3>
 <div style="display: 'flex';">
-<img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=Project-DSCatalog&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
-<img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="180em" width="45%"src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=Project-DSCatalog&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="180em" width="45%"src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 </div>
 
 <div style="width: 100%;">
