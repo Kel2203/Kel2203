@@ -31,7 +31,7 @@ Contatos
   </a>
   
  <a href="https://github.com/Kel2203">     
-  <img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8&card_width=600">
+  <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=kel2203&border_radius=30&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00&stroke=A29FD8&ring=A29FD8&fire=6807ce&currStreakNum=A29FD8&sideNums=A29FD8&currStreakLabel=A29FD8&sideLabels=A29FD8&dates=A29FD8&border=A29FD8&card_width=500&excludeDaysLabel=EB545400&exclude_days=Sun%2CTue%2CWed%2CThu%2CFri%2CSat">
      
 </a>   
   </div>
