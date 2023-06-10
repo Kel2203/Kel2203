@@ -99,13 +99,13 @@ Projetos recentes
 <!-- FREQUÊNCIA NO GITHUB -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kel2203&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR">
 
-
-
+<!-- VISUALIZAÇÕES E VISITAS NO PERFIL -->
 [![](https://visitcount.itsvg.in/api?id=Kel2201&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+<!-- SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL  -->
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
 
 <div style="width: 100%;">
