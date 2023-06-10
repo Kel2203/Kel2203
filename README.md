@@ -24,8 +24,7 @@ Contatos
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-
-
+<!-- DESEMPENHO E ESTATÍSTICAS DO PERFIL GITHUB-->
  <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203">
@@ -41,6 +40,8 @@ Contatos
   <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
+<!--CONHECIMENTO DE HABILIDADES EM FERRAMENTAS -->
   <h3>
 Skills
 </h3>
@@ -68,6 +69,8 @@ Skills
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+
+<!-- ESTATÍSTICAS DE STACKS-->
  <a href="https://github.com/Kel2203" >
   <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=4&layout=donut-vertical">
  </a>
@@ -78,8 +81,6 @@ Skills
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-
 
 
 
