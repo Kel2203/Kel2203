@@ -83,7 +83,7 @@ Skills
 </div>
 
 
-
+<!-- PROJETOS EM DESENVOLVIMENTO -->
 <h3>
 Projetos recentes
 </h3>
