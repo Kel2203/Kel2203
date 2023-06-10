@@ -3,8 +3,7 @@
   <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-
-
+<!-- INTRODUÇÃO -->
 <h3> Olá, seja bem-vindo(a)!!</h3>
 
 <p style="font-family: 'Roboto', sans-serif;">
@@ -13,6 +12,8 @@ Meu nome é Raquel e sou uma dev iniciante. Estou sempre buscando aprender novas
 Obrigada pela visita!
 </i>
 </p>
+
+<!-- CONTATOS EMAIL E LINKEDIN -->
 <h3>
 Contatos
 </h3>
