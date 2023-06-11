@@ -43,7 +43,7 @@ Contatos
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!--CONHECIMENTO DE HABILIDADES EM FERRAMENTAS -->
+<!-- HABILIDADES EM FERRAMENTAS -->
   <h3>
 Skills
 </h3>
