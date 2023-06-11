@@ -66,7 +66,7 @@ Skills
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
 </a>
 
- 
+ <!-- LINHA PARA SEPARAR -->
  <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
