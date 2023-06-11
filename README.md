@@ -82,6 +82,7 @@ Skills
   <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=donut-vertical&hide=java,typescript,css,scss">
  </a>
  
+  <!-- LINHA PARA SEPARAR -->
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
