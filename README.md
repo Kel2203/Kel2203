@@ -92,7 +92,7 @@ Skills
 
 <!-- PROJETOS EM DESENVOLVIMENTO -->
 <h3>
-Projetos recentes
+💻 Projetos recentes
 </h3>
 <div style="display: 'flex';">
 <img height="140em" src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=Project-DSCatalog&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
