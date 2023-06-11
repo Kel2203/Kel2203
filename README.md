@@ -112,6 +112,7 @@ Projetos recentes
 <!-- SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL  -->
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
 
+ <!-- LINHA PARA SEPARAR -->
 <div style="width: 100%;">
   <img src="hello-world.svg" style="width: 100%;" alt="Click to see the source">
 </div>
