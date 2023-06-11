@@ -6,7 +6,7 @@
 </div>
 
 <!-- INTRODUÇÃO -->
-<h3> Olá, seja bem-vindo(a)!!</h3>
+<h3> 🤙 Olá, seja bem-vindo(a)!!</h3>
 
 <p style="font-family: 'Roboto', sans-serif;">
 <i>
@@ -49,7 +49,7 @@ Contatos
 
 <!-- HABILIDADES EM FERRAMENTAS -->
   <h3>
-Skills
+🙂 Skills
 </h3>
 
 <a href="https://github.com/Kel2203" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a>
