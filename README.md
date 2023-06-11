@@ -22,6 +22,8 @@ Contatos
 <a href="mailto:raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 
+
+<!-- LINHA PARA SEPARAR -->
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
