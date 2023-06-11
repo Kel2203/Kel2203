@@ -39,6 +39,8 @@ Contatos
      
 </a>   
   </div>
+  
+   <!-- LINHA PARA SEPARAR -->
   <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
