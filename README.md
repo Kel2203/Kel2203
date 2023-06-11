@@ -6,7 +6,7 @@
 </div>
 
 <!-- INTRODUÇÃO -->
-<h3> 🤙 Olá, seja bem-vindo(a)!!</h3>
+<h3> Olá, seja bem-vindo(a)!!</h3>
 
 <p style="font-family: 'Roboto', sans-serif;">
 <i>
@@ -17,7 +17,7 @@ Obrigada pela visita!
 
 <!-- CONTATOS EMAIL E LINKEDIN -->
 <h3>
-Contatos
+📞 Contatos
 </h3>
 <a href="mailto:raquelsb2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-1.svg" alt="gmail" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/raquel-barreto-b70387219/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
@@ -49,7 +49,7 @@ Contatos
 
 <!-- HABILIDADES EM FERRAMENTAS -->
   <h3>
-🙂 Skills
+🟣 Skills
 </h3>
 
 <a href="https://github.com/Kel2203" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a>
