@@ -96,6 +96,7 @@ Projetos recentes
 <img height="140em" src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 </div>
 
+ <!-- LINHA PARA SEPARAR -->
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
