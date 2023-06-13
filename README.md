@@ -91,7 +91,7 @@ Obrigada pela visita!
 </div>
 
 
-<!-- PROJETOS EM DESENVOLVIMENTO -->
+<!-- 🫐PROJETOS EM DESENVOLVIMENTO🫐 -->
 <h3>
 💻 Projetos recentes
 </h3>
