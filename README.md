@@ -16,7 +16,7 @@ Obrigada pela visita!
 </i>
 </p>
 
-<!-- CONTATOS EMAIL E LINKEDIN -->
+<!-- ▼・ᴥ・▼CONTATOS EMAIL E LINKEDIN -->
 <h3>
 📞 Contatos
 </h3>
