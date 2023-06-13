@@ -111,7 +111,7 @@ Obrigada pela visita!
 <!-- 🫶VISUALIZAÇÕES E VISITAS NO PERFIL🫶 -->
 [![](https://visitcount.itsvg.in/api?id=Kel2201&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
- <!-- LINHA PARA SEPARAR -->
+ <!-- 🫠LINHA PARA SEPARAR🫠 -->
 <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
