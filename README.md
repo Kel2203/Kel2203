@@ -104,7 +104,7 @@ Obrigada pela visita!
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!-- 🥇FREQUÊNCIA NO GITHUB -->
+<!-- 🥇FREQUÊNCIA NO GITHUB 🥇 -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kel2203&bg_color=ffffff00&color=a29fd8&line=a29fd8&point=6807ce&area=true&hide_border=false&locale=pt_BR">
 
 <!-- 🫶VISUALIZAÇÕES E VISITAS NO PERFIL🫶 -->
