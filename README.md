@@ -115,7 +115,7 @@ Obrigada pela visita!
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!-- SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL  -->
+<!-- 🐍SNAKE GIF PQ TODO MUNDO TEM ISSO NO PERFIL E É LEGAL  -->
 ![snake gif](https://github.com/Kel2203/Kel2203/blob/output/github-contribution-grid-snake.svg)
 
  <!-- LINHA PARA SEPARAR -->
