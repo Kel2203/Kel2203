@@ -28,7 +28,7 @@ Obrigada pela visita!
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!-- 🙉DESEMPENHO E ESTATÍSTICAS DO PERFIL GITHUB 🙉-->
+<!-- 🙉DESEMPENHO E ESTATÍSTICAS DO PERFIL GITHUB🙉-->
  <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203">
@@ -42,7 +42,7 @@ Obrigada pela visita!
 </a>   
   </div>
   
-   <!-- 🐦🐦 LINHA PARA SEPARAR🐦-->
+   <!-- 🐦 LINHA PARA SEPARAR🐦-->
   <div style="width: 100%;">
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
