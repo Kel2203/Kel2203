@@ -47,7 +47,7 @@ Obrigada pela visita!
   <img src="line.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<!-- 🦊HABILIDADES EM FERRAMENTAS🦊 -->
+<!-- HABILIDADES EM FERRAMENTAS🦊 -->
   <h3>
 🟣 Skills
 </h3>
