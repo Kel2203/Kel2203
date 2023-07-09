@@ -33,7 +33,7 @@ Obrigada pela visita!
   
 <a href="https://github.com/Kel2203">
   
-<img height="180em" src="">
+<img height="180em" src="https://github-readme-stats-kel2203.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
   </a>
   
  <a href="https://github.com/Kel2203">     
