@@ -32,8 +32,8 @@ Obrigada pela visita!
  <div class="container" style="display:'flex';">
   
 <a href="https://github.com/Kel2203">
-  
-<img height="180em" src="https://github-readme-stats-kel2203.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
+<!--   https://github-readme-stats-kel2203.vercel.app -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kel2203&show_icons=true&text_color=a29fd8&bg_color=ffffff00&border_radius=25&icon_color=a29fd8&title_color=a29fd8&border_color=a29fd7&ring_color=a29fd8&text_bold=true">
   </a>
   
  <a href="https://github.com/Kel2203">     
@@ -78,10 +78,10 @@ Obrigada pela visita!
 
 <!-- 🐢ESTATÍSTICAS DE STACKS🐢-->
  <a href="https://github.com/Kel2203" >
-  <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=donut-vertical&hide=html,sass,css,scss,vue">
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=5&layout=donut-vertical&hide=html,sass,css,scss,vue">
  </a>
    <a href="https://github.com/Kel2203" >
-  <img  width="30%" src="https://github-readme-stats-kel2203.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=6&layout=donut-vertical&hide=java,typescript,javascript,dockerfile,c">
+  <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kel2203&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&border_color=a29fd8&langs_count=6&layout=donut-vertical&hide=java,typescript,javascript,dockerfile,c">
  </a>
  
   <!--🍎 LINHA PARA SEPARAR 🍎-->
@@ -95,8 +95,8 @@ Obrigada pela visita!
 💻 Projetos recentes
 </h3>
 <div style="display: 'flex';">
-<img height="140em" src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=Catalogo&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
-<img height="140em" src="https://github-readme-stats-kel2203.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=Catalogo&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=kel2203&repo=SolicitacaoHorasExtras&text_color=a29fd8&bg_color=ffffff00&title_color=a29fd8&text_bold=true&border_radius=25&layout=compact&border_color=a29fd8">
 </div>
 
  <!-- ☕LINHA PARA SEPARAR☕ -->
